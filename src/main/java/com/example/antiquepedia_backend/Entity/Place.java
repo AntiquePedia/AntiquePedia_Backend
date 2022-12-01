@@ -6,4 +6,5 @@ public class Place {
     private String fallWithin;
     private String longitude;
     private String latitude;
+
 }

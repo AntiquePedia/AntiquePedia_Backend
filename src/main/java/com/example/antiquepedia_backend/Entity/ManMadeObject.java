@@ -9,6 +9,7 @@ public class ManMadeObject {
     private String URI;
 
     private List<String> labels;
+
     private List<String> representations;
     private List<String> refers;
 

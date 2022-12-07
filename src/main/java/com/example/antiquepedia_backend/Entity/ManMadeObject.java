@@ -11,6 +11,7 @@ public class ManMadeObject {
     private List<String> labels;
 
     private List<String> representations;
+
     private List<String> refers;
 
 }
